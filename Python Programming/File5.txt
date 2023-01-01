@@ -1,0 +1,8 @@
+PS C:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++> python -u "c:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++\VS Code Python\program18.py"
+Hello Everyone
+"I am Bhavy Kharbanda"
+"I am coding in python Language"
+Error message : [Errno 2] No such file or directory: 'File5'
+PS C:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++>
+
+

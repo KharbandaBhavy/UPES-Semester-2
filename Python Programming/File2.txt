@@ -1,0 +1,8 @@
+PS C:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++> python -u "c:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++\VS Code Python\program13.py"
+Hello Everyone
+"I am Bhavy Kharbanda"
+"I am coding in python Language"
+Hello Everyone
+\"I am Bhavy Kharbanda\"
+\"I am coding in python Language\"
+PS C:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++> 

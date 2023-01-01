@@ -1,0 +1,31 @@
+Jingle bells jingle bells
+Jingle all the way
+Oh what fun it is to ride
+In a one horse open sleigh
+Jingle bells jingle bells
+Jingle all the way
+
+
+PS C:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++> python -u "c:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++\VS Code Python\program14.py
+Total number of words : 29
+jingle  : 6
+bells : 4
+all : 2
+the : 2
+way : 2
+oh : 1
+what : 1
+fun : 1
+it : 1
+is : 1
+to : 1
+ride : 1
+in : 1
+a : 1
+one : 1
+horse : 1
+open : 1
+sleigh : 1
+PS C:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++> 
+
+

@@ -1,0 +1,19 @@
+
+PS C:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++> python -u "c:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++\VS Code Python\program15.py"
+Details of the cities are : 
+Delhi 305 1484
+Chennai 112 426
+Mumbai 206 604
+Bangalore 127 709
+Kolkata 149 206
+
+Cities with population more than 10 Lakh : 
+Delhi
+Chennai
+Mumbai
+Bangalore
+Kolkata
+
+Sum of area of all the cities : 3429
+PS C:\Users\BHAVY KHARBANDA\Desktop\VS Code CC++>
+
