@@ -19,4 +19,13 @@
 - Experiment-10: Use of Pandas in python.
 
 
+### Approximate idea of Experiments for Operating System folder. Although, the doc of detailed problem statements is also added in the folder.
+#### Use Linux environment for these programs. (like Kali, Ubuntu)
+- Lab Exercise-1: Basic Linux Commands
+- Lab Exercise-2: First Come First Serve, Shortest Job First, and Round Robin CPU schedulling.
+- Lab Exercise-3: Round Robin and Priority schedulling with arrival time CPU schedulling.
+- Lab Exercise-4: To implement Banker's Algorithm and use of Semaphores(Producer Consumer Problem).
+- Lab Exercise-5: To implement memory management techniques using paging and segmentation technique.
+
+
 
