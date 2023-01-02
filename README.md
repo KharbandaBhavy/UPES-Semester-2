@@ -18,7 +18,7 @@
 - Experiment-9: Use of Numpy in python.
 - Experiment-10: Use of Pandas in python.
 
-## Operating System lab 💻
+## Operating System Lab 💻
 ### Approximate idea of Experiments for Operating System folder. Although, the doc of detailed problem statements is also added in the folder.
 #### Use Linux environment for these programs. (like Kali, Ubuntu)
 - Lab Exercise-1: Basic Linux Commands
@@ -27,5 +27,9 @@
 - Lab Exercise-4: To implement Banker's Algorithm and use of Semaphores(Producer Consumer Problem).
 - Lab Exercise-5: To implement memory management techniques using paging and segmentation technique.
 
+
+
+## Data Structures Lab 😵
+### Approximate idea of Experiments for Data Structures folder. Although, the doc of detailed problem statements is also added in the folder.
 
 
