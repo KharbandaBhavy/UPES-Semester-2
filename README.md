@@ -5,7 +5,7 @@
 - Happy Coding 🧑🏻‍💻.....
 
 
-
+## Python Programming 🐍
 ### Approximate idea of Experiments for python programming folder. Although, the doc of detailed problem statements is also added in the folder.
 - Experiment-1: Conditional Actions in python.
 - Experiment-2: Use of Dictionary and Lists in python.
@@ -18,7 +18,7 @@
 - Experiment-9: Use of Numpy in python.
 - Experiment-10: Use of Pandas in python.
 
-
+## Operating System lab 💻
 ### Approximate idea of Experiments for Operating System folder. Although, the doc of detailed problem statements is also added in the folder.
 #### Use Linux environment for these programs. (like Kali, Ubuntu)
 - Lab Exercise-1: Basic Linux Commands
